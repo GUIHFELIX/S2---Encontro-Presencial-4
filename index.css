@@ -1,0 +1,74 @@
+header img {
+    width: 450px;
+    
+}
+
+.center {
+    background-color:white;
+    text-align: center;
+}
+
+.produto {
+  text-align: center;
+    
+    
+    
+}
+
+img {
+    width:150px;
+
+}
+
+footer {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+
+
+}
+.navbarlogo {
+    text-align: center;
+}
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  .fonte{
+    text-align: center;
+
+  }
+
+  #produtos{
+    display: flex;
+    justify-content: center;
+
+
+   
+  }
+  #produtos2{
+    display: flex;
+    justify-content: center;
+
+  }
+  #topo{
+text-align: center;
+
+  }
+ 
+.button{
+  background-color: black;
+  color: white;
+  font-size: 10px;
+}
+
+
